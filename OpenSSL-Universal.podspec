@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OpenSSL-Universal'
-  s.version          = '1.0.4'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of OpenSSL-Universal.'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.

@@ -1,7 +1,7 @@
 PODS:
-  - OpenSSL-Universal (1.0.4):
-    - OpenSSL-Universal/Framework (= 1.0.4)
-  - OpenSSL-Universal/Framework (1.0.4)
+  - OpenSSL-Universal (1.0.0):
+    - OpenSSL-Universal/Framework (= 1.0.0)
+  - OpenSSL-Universal/Framework (1.0.0)
 
 DEPENDENCIES:
   - OpenSSL-Universal (from `../`)
@@ -11,8 +11,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OpenSSL-Universal: 0d420048b3aa83310ce45f9f4a9728d118f9b8c1
+  OpenSSL-Universal: 739175582631b9eb2d911b8d86092430e0269573
 
-PODFILE CHECKSUM: 519297d6ae29cb8ff1f0de6a5f7de3c9c471f7b0
+PODFILE CHECKSUM: 2e6b2c3ab103c701fb0b6dcd085adba0fcedb4d3
 
 COCOAPODS: 1.9.3
