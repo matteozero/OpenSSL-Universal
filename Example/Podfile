@@ -1,0 +1,14 @@
+source 'https://github.com/matteozero/Specs.git'
+
+platform :ios, "8.0"
+use_frameworks! :linkage => :static
+
+target 'OpenSSL-Universal_Example' do
+  pod 'OpenSSL-Universal', :path => '../'
+
+  target 'OpenSSL-Universal_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
