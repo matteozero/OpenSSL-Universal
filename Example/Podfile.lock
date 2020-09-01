@@ -1,7 +1,7 @@
 PODS:
-  - OpenSSL-Universal (1.0.0):
-    - OpenSSL-Universal/Framework (= 1.0.0)
-  - OpenSSL-Universal/Framework (1.0.0)
+  - OpenSSL-Universal (1.0.1):
+    - OpenSSL-Universal/Framework (= 1.0.1)
+  - OpenSSL-Universal/Framework (1.0.1)
 
 DEPENDENCIES:
   - OpenSSL-Universal (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OpenSSL-Universal: 739175582631b9eb2d911b8d86092430e0269573
+  OpenSSL-Universal: 63543ddc2546926fb1acbd3d2afa107ac4b76518
 
 PODFILE CHECKSUM: 2e6b2c3ab103c701fb0b6dcd085adba0fcedb4d3
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OpenSSL-Universal'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of OpenSSL-Universal.'
   s.description      = <<-DESC
   TODO: Add long description of the pod here.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.author           = { 'shaochuan' => '851045786@qq.com' }
   s.source           = { :git => 'https://github.com/matteozero/OpenSSL-Universal.git', :tag => s.version.to_s }
 
-  s.static_framework = true
+#  s.static_framework = true
 
 
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
